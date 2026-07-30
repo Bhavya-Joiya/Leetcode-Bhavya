@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -44,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
