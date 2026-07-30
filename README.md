@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
