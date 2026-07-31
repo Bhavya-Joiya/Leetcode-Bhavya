@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -53,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
