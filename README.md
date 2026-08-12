@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
