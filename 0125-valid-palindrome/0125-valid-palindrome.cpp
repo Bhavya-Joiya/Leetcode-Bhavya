@@ -1,22 +1,47 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int n = s.length();
-        string z;
-
-        for(int j = 0; j < n; j++) {
-            if(isalnum((unsigned char)s[j])) {
-                z += tolower((unsigned char)s[j]);
+       int n = s.length();
+       if(n<2){
+        return true;
+       }
+       else{
+        string s1;
+        for(int i = 0; i < n; i++){
+            if(isalnum(s[i])){
+                s1.push_back(tolower(s[i]));
             }
         }
-
-        int m = z.length();
-        string orig = z;
-
-        for(int i = 0; i < m / 2; i++) {
-            swap(z[i], z[m - i - 1]);
+        int m = s1.length();
+        int a;
+        if(m%2!=0){
+            for(int j = 0; j < (m-1)/2; j++){
+                if(s1[j] == s1[m-j-1]){
+                    a = 1;
+                }
+                else{
+                    a = 0;
+                    break;
+                }
+            }
         }
-
-        return orig == z;
+        else{
+            for(int j = 0; j < m/2; j++){
+                if(s1[j] == s1[m-j-1]){
+                    a = 1;
+                }
+                else{
+                    a = 0;
+                    break;
+                }
+            }
+        }
+        if(a == 1){
+            return true;
+        }
+        else{
+            return false;
+        }
+       }
     }
 };
