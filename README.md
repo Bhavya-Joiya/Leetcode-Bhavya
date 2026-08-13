@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1929-concatenation-of-array) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Matrix
 |  |
 | ------- |
