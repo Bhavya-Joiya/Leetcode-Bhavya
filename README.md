@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1389-create-target-array-in-the-given-order) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
