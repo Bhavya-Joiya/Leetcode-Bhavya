@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2235-add-two-integers) |
 ## Two Pointers
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1929-concatenation-of-array) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
