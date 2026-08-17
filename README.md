@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Prefix Sum
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
+| [2942-find-words-containing-character](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
