@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2235-add-two-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3945-digit-frequency-score](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
