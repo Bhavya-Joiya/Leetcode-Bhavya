@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2235-add-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
