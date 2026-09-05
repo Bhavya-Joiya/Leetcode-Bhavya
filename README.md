@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
