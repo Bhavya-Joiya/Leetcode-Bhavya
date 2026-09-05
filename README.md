@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3668-restore-finishing-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
