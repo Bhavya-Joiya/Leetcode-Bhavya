@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1470-shuffle-the-array) |
