@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2235-add-two-integers) |
@@ -70,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -123,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
