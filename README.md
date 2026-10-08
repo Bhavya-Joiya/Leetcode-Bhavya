@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3701-compute-alternating-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhavya-Joiya/Leetcode-Bhavya/tree/master/3875-construct-uniform-parity-array-i) |
